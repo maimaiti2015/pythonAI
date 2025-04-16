@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d7fcad6-3448-4c99-8e34-3fc925efce81" name="更改" comment="1.0版本">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="1d7fcad6-3448-4c99-8e34-3fc925efce81" name="更改" comment="1.0版本" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +58,7 @@
       <updated>1744690051472</updated>
       <workItem from="1744690052494" duration="4611000" />
       <workItem from="1744768736437" duration="13523000" />
-      <workItem from="1744813951682" duration="850000" />
+      <workItem from="1744813951682" duration="1471000" />
     </task>
     <task id="LOCAL-00001" summary="1.0版本">
       <option name="closed" value="true" />
@@ -71,7 +68,31 @@
       <option name="project" value="LOCAL" />
       <updated>1744690150426</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1.0版本">
+      <option name="closed" value="true" />
+      <created>1744814838381</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744814838381</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1.0版本">
+      <option name="closed" value="true" />
+      <created>1744814957614</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744814957614</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1.0版本">
+      <option name="closed" value="true" />
+      <created>1744815205383</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744815205383</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
